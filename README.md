@@ -1,4 +1,4 @@
-# Multi-tenant Kubernetes Infrustructure
+# Multi-tenant Kubernetes Infrastructure
 
 ## Overview
 
